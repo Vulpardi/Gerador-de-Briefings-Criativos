@@ -2,7 +2,8 @@
 ## Esse projeto foi pensado em solucionar um problema pessoal que acredito que diversos profissionais da área criativa também passam: Como criar meu portfólio sem idéias?
 
 Há alguns anos eu me vi completamente perdido, com meu Behance vazio e com um monte de projetos não finalizados pois eu sentia que eles eram obvios demais, fáceis de mais e não conseguiriam transmitir meu potencial criativo. Esse projeto é para meu eu de 4 anos atrás!
-![Default_In_watercolor_create_an_image_of_a_person_with_a_color_2](https://github.com/Vulpardi/Projeto_Alura/assets/169551247/3f4d322c-37fc-43af-9c70-983229e1da7b)
+
+![Default_In_watercolor_create_an_image_of_a_person_with_a_color_1](https://github.com/Vulpardi/Projeto_Alura/assets/169551247/1326c825-5530-44e3-a3ae-a36a50047eaf)
 
 Esse projeto tem como objetivo elaborar **Briefings para designers iniciantes e avançados de forma a criar algo extremamente único, simples de ser feito** e que ainda assim possam dar a oportunidade para esses profissionais mostrarem suas habilidades!
 
