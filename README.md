@@ -12,7 +12,6 @@ Esse projeto conta com:
 E ainda te traz um desafio Extra 🥇 para que o seu projeto torne-se único.
 
 Para utilizar esse projeto é bem simples:
-Primeiro você deve substituir essa frase <
+Primeiro você deve substituir essa frase <Utilize sua Google_API_Key aqui> pelo seu código de API do Gemini
 
-Utilize sua Google_API_Key aqui> pelo seu código de API do Gemini
 ![image](https://github.com/Vulpardi/Projeto_Alura/assets/169551247/5708de18-ecc5-4b7a-9d3d-4b16e6276667)
