@@ -17,6 +17,7 @@ Primeiro você deve substituir essa frase *"Utilize sua Google_API_Key aqui"* pe
 ![image](https://github.com/Vulpardi/Projeto_Alura/assets/169551247/5708de18-ecc5-4b7a-9d3d-4b16e6276667)
 
 Depois você pode abrir no app *Collab* e na ultima linha do penultimo prompt, alterar o Parâmetro Aleatório para o qual desejar, ou mantêlo dessa mesma forma.
+
 ![image](https://github.com/Vulpardi/Projeto_Alura/assets/169551247/43090346-d897-48d0-a1e2-4e1bddd9643b)
 
 Agora é só rodar e pronto, você já tem acesso ao seu próprio Briefing único gerado pelo Google Gemini!
