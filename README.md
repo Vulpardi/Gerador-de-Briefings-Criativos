@@ -34,5 +34,5 @@ Agora é só rodar e pronto, você já tem acesso ao seu próprio Briefing únic
 + Uma vez que os resultados eram satisfatórios, eles foram colhidos, tratados e enviados para o Structured Point,
 + Esse passo abriu a possibilidade de uma lógica mais complexa para que mais amostras interessantes surjissem
 + Essas amostras foram compiladas em um arquivo de Excell (Que o código lê) e enviadas para que o próprio Gemini desse um parecer
-+ Por fim, o código gerado é uma mistura de diversas técnicas de engenharia de prompt e entragm o melhor resultado abusando ao máximo da "Alucinação" natural das IA's
++ Por fim, o código gerado é uma mistura de diversas técnicas de engenharia de prompt e entragam o melhor resultado abusando ao máximo da "Alucinação" natural das IA's
 _Quem iria imaginar que o código iria sugerir um Brand de uma empresa de mágicos com um elefante no logo e Art Decó na ID visual ?_
