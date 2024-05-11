@@ -24,3 +24,13 @@ Depois você pode abrir no app *Collab* e na ultima linha do penultimo prompt, a
 
 Agora é só rodar e pronto, você já tem acesso ao seu próprio Briefing único gerado pelo Google Gemini!
 [Quer começar? Clique Aqui!](https://github.com/Vulpardi/Projeto_Alura/blob/main/Briefing_Design.ipynb)
+
+
+## Curiosidades sobre o projeto:
++ Para Obter esse resultado, foi necessário primeiro treinar um IA Generativa para que ela gerasse bons briefings
++ Após oter resultados aceitáveis, foi preciso estruturar o prompt para otimizar resultados
++ Uma vez que os resultados eram satisfatórios, eles foram colhidos, tratados e enviados para o Structured Point,
++ Esse passo abriu a possibilidade de uma lógica mais complexa para que mais amostras interessantes surjissem
++ Essas amostras foram compiladas em um arquivo de Excell (Que o código lê) e enviadas para que o próprio Gemini desse um parecer
++ Por fim, o código gerado é uma mistura de diversas técnicas de engenharia de prompt e entragm o melhor resultado abusando ao máximo da "Alucinação" natural das IA's
+_Quem iria imaginar que o código iria sugerir um Brand de uma empresa de mágicos com um elefante no logo e Art Decó na ID visual ?_
