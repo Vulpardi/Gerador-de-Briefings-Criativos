@@ -11,3 +11,5 @@ Esse projeto conta com:
 🏁 Objetivo institucional
 E ainda te traz um desafio Extra 🥇 para que o seu projeto torne-se único.
 
+Para utilizar esse projeto é bem simples:
+Primeiro você deve 
