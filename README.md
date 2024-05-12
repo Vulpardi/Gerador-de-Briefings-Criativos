@@ -11,7 +11,7 @@ Esse projeto tem como objetivo elaborar **Briefings para designers iniciantes e 
 + 🧒 Persona <ENTER>
 + 🗣️ Voz da Empresa
 + 🌟 Nome da Marca
-+ 🏁 Objetivo instituciona
++ 🏁 Objetivo institucional
 + E ainda te traz um desafio Extra 🥇 para que o seu projeto torne-se único.
 
 ## Como utilizar
