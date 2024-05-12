@@ -24,7 +24,7 @@ Depois de rodar o códgio, você poderá alterar os Parâmetros "Aleatório" par
 ![image](https://github.com/Vulpardi/Projeto_Alura/assets/169551247/bba028a9-2f43-4bd9-8797-c0c0d9586493)
 
 
-Agora é só rodar e pronto, você já tem acesso ao seu próprio Briefing único gerado pelo Google Gemini!
+Agora é só apertar Enter e pronto, você já tem acesso ao seu próprio Briefing único gerado pelo Google Gemini!
 [Quer começar? Clique Aqui!](https://github.com/Vulpardi/Projeto_Alura/blob/main/Briefing_Design.ipynb)
 
 
