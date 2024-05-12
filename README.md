@@ -26,12 +26,11 @@ Depois de rodar o códgio, você poderá alterar os Parâmetros "Aleatório" par
 
 
 Agora é só apertar Enter e pronto, você já tem acesso ao seu próprio Briefing único gerado pelo Google Gemini!
-[Quer começar? Clique Aqui!](https://github.com/Vulpardi/Projeto_Alura/blob/main/Briefing_Design.ipynb)
-
 
 Por fim, você receberá um resultado nesse formato com essas informações ^.^
 ![image](https://github.com/Vulpardi/Gerador-de-Briefings-Criativos/assets/169551247/3a6df200-99b5-43d7-9754-ed098d4fa419)
 
+[Quer começar? Clique Aqui!](https://github.com/Vulpardi/Projeto_Alura/blob/main/Briefing_Design.ipynb)
 
 ## Curiosidades sobre o projeto:
 + Para Obter esse resultado, foi necessário primeiro treinar um IA Generativa para que ela gerasse bons briefings
