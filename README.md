@@ -1,4 +1,4 @@
-# ✒️Briefings Para Designer Deseperados.
+# ✒️Briefings Para Designers Deseperados.
 ## Esse projeto foi pensado em solucionar um problema pessoal que acredito que diversos profissionais da área criativa também passam: Como criar meu portfólio sem idéias?
 
 Há alguns anos eu me vi completamente perdido, com meu Behance vazio e com um monte de projetos não finalizados pois eu sentia que eles eram obvios demais, fáceis de mais e não conseguiriam transmitir meu potencial criativo. Esse projeto é para meu eu de 4 anos atrás!
@@ -14,6 +14,7 @@ Esse projeto tem como objetivo elaborar **Briefings para designers iniciantes e 
 + 🏁 Objetivo instituciona
 + E ainda te traz um desafio Extra 🥇 para que o seu projeto torne-se único.
 
+## Como utilizar
 Para utilizar esse projeto é bem simples:
 Primeiro você deve substituir essa frase *"Utilize sua Google_API_Key aqui"* pelo seu código de API do Gemini
 
