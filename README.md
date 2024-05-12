@@ -43,7 +43,7 @@ _Quem iria imaginar que o código iria sugerir um Brand de uma empresa de mágic
 
 
 ##### SAIBA MAIS SOBRE O AUTOR:
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrey-almassy-social-media/" alt="LinkedIn"/></a>
-</p>
+<div>
+  <a href="https://www.linkedin.com/in/andrey-almassy-social-media/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/vulpardi/"><img src="https://img.shields.io/badge/github-3b4c52.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
