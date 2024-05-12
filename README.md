@@ -19,7 +19,7 @@ Primeiro você deve substituir essa frase *"Utilize sua Google_API_Key aqui"* pe
 
 ![image](https://github.com/Vulpardi/Projeto_Alura/assets/169551247/5708de18-ecc5-4b7a-9d3d-4b16e6276667)
 
-Depois você pode abrir rodar o códgio, você poderá alterar o Parâmetro Aleatório para o qual desejar, ou mantêlo dessa mesma forma. O Parâmetro "TEMA" diz o segmento ou tema da empresa, já o Parâmetro "FOCO" é pensado para você conseguir direcionar a IA para o tipo de projeto que deseja fazer, como Social Media, Design de embalagem, Papelaria...
+Depois de rodar o códgio, você poderá alterar os Parâmetros "Aleatório" para o qual desejar, ou mantê-lo dessa mesma forma. O Parâmetro "TEMA" diz o segmento ou tema da empresa, já o Parâmetro "FOCO" é pensado para você conseguir direcionar a IA para o tipo de projeto que deseja fazer, como Social Media, Design de embalagem, Papelaria...
 
 ![image](https://github.com/Vulpardi/Projeto_Alura/assets/169551247/bba028a9-2f43-4bd9-8797-c0c0d9586493)
 
