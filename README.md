@@ -36,3 +36,10 @@ Agora é só rodar e pronto, você já tem acesso ao seu próprio Briefing únic
 + Essas amostras foram compiladas em um arquivo de Excell (Que o código lê) e enviadas para que o próprio Gemini desse um parecer
 + Por fim, o código gerado é uma mistura de diversas técnicas de engenharia de prompt e entragam o melhor resultado abusando ao máximo da "Alucinação" natural das IA's
 _Quem iria imaginar que o código iria sugerir um Brand de uma empresa de mágicos com um elefante no logo e Art Decó na ID visual ?_
+
+
+##### SAIBA MAIS SOBRE O AUTOR:
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrey-almassy-social-media/" alt="LinkedIn"/></a>
+</p>
